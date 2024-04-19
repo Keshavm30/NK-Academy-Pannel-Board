@@ -1,0 +1,1154 @@
+                <li class="menu-item sub-menu">
+                  <a>
+                    <span class="menu-icon">
+                      <img src="Logo/SSC.png" alt="" srcset="" class="menu-icon" >
+                    </span>
+                    <span class="menu-title">SSC</span><span class="menu-suffix"><span class="badge secondary">Upcoming</span></span>
+                    <span class="menu-suffix">
+                    </span>
+                  </a>
+                  <div class="sub-menu-list">
+                    <ul>
+                      <li class="menu-item sub-menu">
+                        <a>
+                          <span class="menu-icon">
+                            <i class="fa fa-mortar-board"></i>
+                          </span>
+                          <span class="menu-title">Class 1</span>
+                        </a>
+                        <div class="sub-menu-list">
+                          <ul>
+                            <li class="menu-item sub-menu">
+                              <a>
+                                <span class="menu-icon">
+                                  <i class="fa fa-calculator"></i>
+                                </span>
+                                <span class="menu-title">Maths</span>
+                              </a>
+                              <div class="sub-menu-list">
+                                <ul>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 1</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 2</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 3</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 4</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 5</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 6</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 7</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 8</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 9</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 10</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 11</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 12</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 13</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 14</span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </li>
+                            <li class="menu-item sub-menu">
+                              <a>
+                                <span class="menu-icon">
+                                  <i class="fa fa-flask	"></i>
+                                </span>
+                                <span class="menu-title">Science</span>
+                              </a>
+                              <div class="sub-menu-list">
+                                <ul>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 1</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 2</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 3</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 4</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 5</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 6</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 7</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 8</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 9</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 10</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 11</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 12</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 13</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 14</span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </li>
+                            <li class="menu-item sub-menu">
+                              <a>
+                                <span class="menu-icon">
+                                  <i class="fa fa-om"></i>
+                                </span>
+                                <span class="menu-title">Hindi</span>
+                              </a>
+                              <div class="sub-menu-list">
+                                <ul>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 1</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 2</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 3</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 4</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 5</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 6</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 7</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 8</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 9</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 10</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 11</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 12</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 13</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 14</span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </li>
+                            <li class="menu-item sub-menu">
+                              <a>
+                                <span class="menu-icon">
+                                  <i class="fas fa-book-open"></i>
+                                </span>
+                                <span class="menu-title">Social Science</span>
+                              </a>
+                              <div class="sub-menu-list">
+                                <ul>
+                                  <li class="menu-item sub-menu">
+                                    <a>
+                                      <span class="menu-icon">
+                                        <i class="fa fa-history"></i>
+                                      </span>
+                                      <span class="menu-title">History</span>
+                                    </a>
+                              <div class="sub-menu-list">
+                                <ul>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 1</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 2</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 3</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 4</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 5</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 6</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 7</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 8</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 9</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 10</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 11</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 12</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 13</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 14</span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                                  </li>
+                                  <li class="menu-item sub-menu">
+                                    <a>
+                                      <span class="menu-icon">
+                                        <i class="fa fa-legal"></i>
+                                      </span>
+                                      <span class="menu-title">Cevics</span>
+                                    </a>
+                              <div class="sub-menu-list">
+                                <ul>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 1</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 2</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 3</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 4</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 5</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 6</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 7</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 8</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 9</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 10</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 11</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 12</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 13</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 14</span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                                  </li>
+                                  <li class="menu-item sub-menu">
+                                    <a>
+                                      <span class="menu-icon">
+                                        <i class="fa fa-globe"></i>
+                                      </span>
+                                      <span class="menu-title">Geography</span>
+                                    </a>
+                              <div class="sub-menu-list">
+                                <ul>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 1</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 2</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 3</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 4</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 5</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 6</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 7</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 8</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 9</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 10</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 11</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 12</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 13</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 14</span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                                  </li>
+                                  <li class="menu-item sub-menu">
+                                    <a>
+                                      <span class="menu-icon">
+                                        <i class="fas fa-chart-line"></i>
+                                      </span>
+                                      <span class="menu-title">Economics</span>
+                                    </a>
+                              <div class="sub-menu-list">
+                                <ul>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 1</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 2</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 3</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 4</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 5</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 6</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 7</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 8</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 9</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 10</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 11</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 12</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 13</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 14</span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                                  </li>
+                                </ul>
+                              </div>
+                            </li>
+                            <li class="menu-item sub-menu">
+                              <a>
+                                <span class="menu-icon">
+                                  <i class="fa fa-language"></i>
+                                </span>
+                                <span class="menu-title">English</span>
+                              </a>
+                              <div class="sub-menu-list">
+                                <ul>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 1</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 2</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 3</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 4</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 5</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 6</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 7</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 8</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 9</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 10</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 11</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 12</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 13</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 14</span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </li>
+                            <li class="menu-item sub-menu">
+                              <a>
+                                <span class="menu-icon">
+                                  <i class="fas fa-pen-nib	"></i>
+                                </span>
+                                <span class="menu-title">Sanskrit</span>
+                              </a>
+                              <div class="sub-menu-list">
+                                <ul>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 1</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 2</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 3</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 4</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 5</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 6</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 7</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 8</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 9</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 10</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 11</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 12</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 13</span>
+                                    </a>
+                                  </li>
+                                  <li class="menu-item">
+                                    <a href="1" target="PDF">
+                                      <span class="menu-icon">
+                                        <i class="fa fa-book"></i>
+                                      </span>
+                                      <span class="menu-title">Chapter 14</span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
